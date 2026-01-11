@@ -53,4 +53,4 @@ variables, and string formatting.
 ---
 
 ## Testing
-Tested with different names, ages, and hobbies to ensure correct output.
+Tested with names, ages, and hobbies to ensure correct output.
